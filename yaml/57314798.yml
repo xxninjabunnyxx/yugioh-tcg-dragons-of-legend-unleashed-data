@@ -1,0 +1,40 @@
+---
+id: 57314798
+name: 'Number 100: Numeron Dragon'
+type: XYZ Monster
+frameType: xyz
+desc: |-
+  2 "Number" Xyz Monsters with the same name and Rank
+  Once per turn: You can detach 1 Xyz Material from this card; this card gains ATK equal to the combined Ranks of all Xyz Monsters currently on the field x 1000, until the end of your opponent's turn. When this card is destroyed by card effect: You can destroy as many monsters on the field as possible (min. 1), then each player Sets 1 Spell/Trap Card from their Graveyard to their field. When an opponent's monster declares an attack while this card is in your Graveyard and you have no cards in your hand or field: You can Special Summon this card.
+atk: 0
+def: 0
+level: 1
+race: Dragon
+attribute: LIGHT
+card_sets:
+- set_name: 'Battles of Legend: Crystal Revenge'
+  set_code: BLCR-EN084
+  set_rarity: Secret Rare
+  set_rarity_code: "(ScR)"
+  set_price: '0'
+- set_name: 'Dragons of Legend: The Complete Series'
+  set_code: DLCS-EN117
+  set_rarity: Ultra Rare
+  set_rarity_code: "(UR)"
+  set_price: '12.47'
+- set_name: 'Dragons of Legend: Unleashed'
+  set_code: DRL3-EN021
+  set_rarity: Secret Rare
+  set_rarity_code: "(ScR)"
+  set_price: '15.16'
+card_images:
+- id: 57314798
+  image_url: https://images.ygoprodeck.com/images/cards/57314798.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/57314798.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/57314798.jpg
+card_prices:
+- cardmarket_price: '1.00'
+  tcgplayer_price: '0.39'
+  ebay_price: '1.58'
+  amazon_price: '17.99'
+  coolstuffinc_price: '1.99'
